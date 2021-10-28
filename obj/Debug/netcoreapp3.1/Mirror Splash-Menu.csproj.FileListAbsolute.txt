@@ -1,0 +1,20 @@
+C:\Users\alexa\source\repos\Mirror Splash-Menu\bin\Debug\netcoreapp3.1\Mirror Splash-Menu.exe
+C:\Users\alexa\source\repos\Mirror Splash-Menu\bin\Debug\netcoreapp3.1\Mirror Splash-Menu.deps.json
+C:\Users\alexa\source\repos\Mirror Splash-Menu\bin\Debug\netcoreapp3.1\Mirror Splash-Menu.runtimeconfig.json
+C:\Users\alexa\source\repos\Mirror Splash-Menu\bin\Debug\netcoreapp3.1\Mirror Splash-Menu.runtimeconfig.dev.json
+C:\Users\alexa\source\repos\Mirror Splash-Menu\bin\Debug\netcoreapp3.1\Mirror Splash-Menu.dll
+C:\Users\alexa\source\repos\Mirror Splash-Menu\bin\Debug\netcoreapp3.1\Mirror Splash-Menu.pdb
+C:\Users\alexa\source\repos\Mirror Splash-Menu\obj\Debug\netcoreapp3.1\Mirror Splash-Menu.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\Mirror Splash-Menu\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\alexa\source\repos\Mirror Splash-Menu\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\alexa\source\repos\Mirror Splash-Menu\obj\Debug\netcoreapp3.1\Mirror Splash-Menu_MarkupCompile.cache
+C:\Users\alexa\source\repos\Mirror Splash-Menu\obj\Debug\netcoreapp3.1\Mirror Splash-Menu_MarkupCompile.lref
+C:\Users\alexa\source\repos\Mirror Splash-Menu\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\alexa\source\repos\Mirror Splash-Menu\obj\Debug\netcoreapp3.1\Mirror Splash-Menu.g.resources
+C:\Users\alexa\source\repos\Mirror Splash-Menu\obj\Debug\netcoreapp3.1\Mirror Splash-Menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\Mirror Splash-Menu\obj\Debug\netcoreapp3.1\Mirror Splash-Menu.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\Mirror Splash-Menu\obj\Debug\netcoreapp3.1\Mirror Splash-Menu.AssemblyInfo.cs
+C:\Users\alexa\source\repos\Mirror Splash-Menu\obj\Debug\netcoreapp3.1\Mirror Splash-Menu.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\Mirror Splash-Menu\obj\Debug\netcoreapp3.1\Mirror Splash-Menu.dll
+C:\Users\alexa\source\repos\Mirror Splash-Menu\obj\Debug\netcoreapp3.1\Mirror Splash-Menu.pdb
+C:\Users\alexa\source\repos\Mirror Splash-Menu\obj\Debug\netcoreapp3.1\Mirror Splash-Menu.genruntimeconfig.cache
